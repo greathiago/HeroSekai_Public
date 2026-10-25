@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <module sdkVersion="3.7b">
     <id>HeroSekaiFicha</id>
-    <version>9.6.0</version>
+    <version>9.6.2</version>
 
     <info lang="pt-BR">
         <!--Informações do plugin na língua "pt-BR". Você pode ter várias tags "info", uma para cada tradução que quiser.-->
-        <name>Hero Sekai - v9.6.0</name>
-        <description>Ficha da mesa Hero Sekai RPG - v9.6.0</description>
+        <name>Hero Sekai - v9.6.2</name>
+        <description>Ficha da mesa Hero Sekai RPG - v9.6.2</description>
         <author>Milokoz / Greathiago</author>
         <site>https://vtt.firecast.app/artifacts/rooms/193878</site>
         <contact>Marcos Júnior / Thiago Moreira</contact>
